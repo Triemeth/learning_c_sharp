@@ -30,3 +30,10 @@ VARIABLES:
     - string: stores text
     - bool: stores true or false
 
+- if you don't want others to overwrite use const
+- can combine both text and variable or variable and variable using + regradless of typing
+- more than one varibale can be created and assigned at the same time
+    - int x = 5, y = 6, z = 50;
+    - int a, b, c;
+
+NOTE: All varaibles must be identified with unique names
