@@ -1,3 +1,5 @@
+BASIC SYNTAX:
+
 - using system means that we can use ckasses frin the system namespace
 - namespace is used to organize your code, and it is a container for classes and other namespace
 - curly brackets {} marks the beginning and end of a block of code
@@ -12,3 +14,19 @@ NOTE: C# is case sensitive
 
 *** SUPER NOTE ***
 CAN"T HAVE TWO MAINS IN THE SAME FOLDER
+
+COMMENTS:
+
+- // <- single line comment
+- /**/ <- multi line comment 
+- ctrl / <- keyboard shortcut in vs code to comment all lines out
+
+VARIABLES:
+
+- Types
+    - int: stores integers
+    - double: stores floating point numbers
+    - char: stores single charactes
+    - string: stores text
+    - bool: stores true or false
+
