@@ -37,3 +37,28 @@ VARIABLES:
     - int a, b, c;
 
 NOTE: All varaibles must be identified with unique names
+
+DATA TYPES:
+
+- int = 4 bytes
+- long = 8 bytes
+- float = 4 bytes
+- double = 8 bytes
+- bool = 1 bytes
+- char = 2 bytes
+- string = 2 bytes per char
+
+- integer types stores whole numbers, postive or negative without decimals i.e. int and long
+- Floating point types represents number with a fractional part containing one or more decimals i.e. float or double
+    - a floating point number can also be a scientific number with an "e" to indicate the power of 10
+
+TYPE CASTING:
+
+- Type casting is when you assign a value of one data type to another type
+    - implicit casting(automatically): converting a smaller type to a large type size
+        - char -> int -> long -> float -> double
+    - explict casting(manually): converting larger type into a smaller size type
+        - double -> float -> long -> int -> char
+
+     
+
