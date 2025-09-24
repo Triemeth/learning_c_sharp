@@ -60,5 +60,53 @@ TYPE CASTING:
     - explict casting(manually): converting larger type into a smaller size type
         - double -> float -> long -> int -> char
 
-     
+USER INPUT:
 
+- use Console.ReadLine() to get user input
+
+NOTE: Console.ReadLine() method returns a string soo you have to type cast the input whenever reading it in
+    -EX: Convert.ToInt32(Console.ReadLine());
+
+OPERATORS:
+
+- Arithmetic:
+    - + => addition
+    - - => subtraction
+    - * => multiplication
+    - / => division
+    - % => Modulus
+    - ++ => Increment
+    - -- => Decrement
+
+- Assignment:
+    - = => x = 5;
+    - += => x +=3 => x = x + 3;
+    - -= => x -=3 => x = x - 3;
+    - *= => x *=3 => x = x * 3;
+    - /= => x /=3 => x = x / 3;
+    - %= => x %=3 => x = x % 3;
+    - &= => x &=3 => x = x & 3;
+    - |= => x |=3 => x = x | 3;
+    NOTE: this is a bitewise assignment operation
+    - ^= => x ^=3 => x = x ^ 3;
+    - >>= => x >>=3 => x = x >> 3;
+    NOTE: this is a bitewise opperation that moves x right 3 bites
+    - <<= => x <<=3 => x = x << 3;
+    NOTE: this is a bitewise opperation that moves x left 3 bites
+        - EX: int x = 5; //binary: 0000 0101
+              x <<=3; //shift three positions to the left 
+              - so 5 is  0000 0101
+              - and x becomes 40 or 0010 1000
+
+- comparison:
+    - == => equal to
+    - != => not equal to
+    - > => greater than
+    - < => less than
+    - >= => Greater than or equal to
+    - <= => less than or equal to
+
+- logical:
+    - && => logical and
+    - || => logical or
+    - ! => logical not
