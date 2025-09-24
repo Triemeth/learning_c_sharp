@@ -110,3 +110,42 @@ OPERATORS:
     - && => logical and
     - || => logical or
     - ! => logical not
+
+MATH:
+
+- Math.Max() = find the higher value
+- Math.Min() = find the lower value
+- Math.Sqrt() = method returns the square root 
+- Math.Abs() = method returns the absolute value
+- Math.Round() = rounds a number to the nearest whole value
+
+STRINGS:
+
+- a string is a collections of characters surrounded by double quotes
+- in C# a string is an object which contains properties and methods that can perform certain operations on strings
+
+- some string methods:
+    - Length
+    - ToUpper
+    - ToLower
+
+- Concatenation:
+    - The + opperator can be used to combine two strings
+    - string.Concat() can be used to concatenate two strings
+
+- Interpolation:
+    - string interpolation, which substitutes values of variables into placeholders in a string uses a dollar sign at the begining of the string ($)
+
+- Access
+    - you can access the characters in a string by referring to its index number inside square brackets 
+    - first character 0
+    - you can undex position of a specific character in a string by using IndexOf()
+    - substring extracts the charcters from a string starting at specific position
+
+- Special Chars
+    - \' => single qoute
+    - \" => douvle qoute
+    - \\ => backslash
+    - \n => new line
+    - \t => tab
+    - \b => Backspace
