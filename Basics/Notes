@@ -149,3 +149,38 @@ STRINGS:
     - \n => new line
     - \t => tab
     - \b => Backspace
+
+BOOLEANS:
+
+- bool data type can take the values true or false
+- a boolean expresion returns a boolean value: True or False by comparing values/variables
+
+CONDITIONAL STATEMENTS:
+
+- use if to specify a block of code to be exuceted if a specific condition is truee
+- use else to specify a block of code to be executed, if the same condition is false
+- use else if to specify a new condition to test if the first condition is false
+- use switch to specify many alternatice blocks of code to be executed
+
+NOTE: if statements can be shortened using this format:
+    - string var = (condition) ? "if condition is true" : "if condition is false";
+
+SWITCH:
+- use the switch statement to select one of many code blocks to be executed
+
+- how it works:
+    - the swithc expression is evaluated once
+    - the value of the expression is compared with the values of each case
+    - if there is a match, the associated block of code is executed
+    - the break and default keywords will be described later in this chapter
+
+
+- when C# reaches the break keyword it breaks out of the switch statement
+- the default keyword is optional and specifies some code to run if there is no case match
+
+WHILE LOOP:
+
+- loops can execute a block of code as long as a specified condition is reached
+- while loop loops through a block of code as long as a specified condition is true
+- a do while loop is a variant of the while loop this executs the code once before checking if the condition is true
+
