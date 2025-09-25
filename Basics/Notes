@@ -184,3 +184,40 @@ WHILE LOOP:
 - while loop loops through a block of code as long as a specified condition is true
 - a do while loop is a variant of the while loop this executs the code once before checking if the condition is true
 
+FOR LOOP:
+
+-for loop statments for(statement 1, statement 2, statement 3):
+    - statement 1 is the executed (one time) before the executation of the code block
+    - statement 2 defines the condition for executing the code block
+    - statement 3 us executed (every time) after the code block has been executed
+
+- you can nest loops with an inner loop and outer loop
+
+- Foreach loop:
+    -foreach loop is used to loop through an array
+
+BREAK/CONTINUE:
+
+- the break statment can be used to jumo out of a loop
+- continue statment breaks for only one iteration
+- you can use break and continue in for loops or while loops
+
+ARRAY:
+- to declare an array use the square brackets [] and define the type
+- you can access arrays by index [0] would get the first item in the array
+- you can change the value of the arrat with an index number
+- if you want to create an array of a certain size and initlize it later you have to use the new key word
+- length key word can be used to check the size of the array
+- the sort method sorts arrats can be alphabetically or numeric
+
+- System.Linq:
+    - gets more methods such as Min, Max, Sum
+
+- Multidimensional Array:
+    - if you want to store data as a tabular form with rows and columns you can use a multidimensional array
+    - to creat a two dimesional array add each array within its own set of curly braces, and insert a comma (,) inside the square brackets
+        EX: int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+    - to access a two dimnesional array you need to specify two indexes
+    - an easy way to loop through two demisonal array is with a foreach loop
+    
+    NOTE: you can also use nested Loops and use getlength for each of the arrays inside of the multidimensional arrays
