@@ -1,0 +1,16 @@
+METHODS:
+
+- a method is a block of code which only runs when its called
+- pass data known as parameters into methods
+- methods are just functions in C#
+- static means the method belongs to the class it was created in and not an object of that class
+- void means that the methods returns nothing
+- to call a method write the methods name followed by two paremtheses and a semicolon
+
+METHOD PARAMETERS:
+
+- info can be passed to methods as parameters act as variable inside the method
+- you can pass as many parameters as you would like
+
+- Defualt parameters:
+    -

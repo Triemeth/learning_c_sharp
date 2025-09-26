@@ -1,9 +1,14 @@
-using System;
+// using System;
 
-namespace meth{
-    class PROG{
-        static void Main(string[] args){
-            Console.WriteLine("is dis working");
-        }
-    }
-}
+// namespace meth{
+//     class Prog{
+//         static void FirstMethod(){
+//             Console.WriteLine("I just got executed!");
+//         }
+
+//         static void Main(string[] args){
+//             FirstMethod();
+//             FirstMethod();
+//         }
+//     }
+// }
