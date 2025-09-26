@@ -13,4 +13,14 @@ METHOD PARAMETERS:
 - you can pass as many parameters as you would like
 
 - Defualt parameters:
-    -
+    - you can set defualt parameters that will be passed if nothing is inputed
+
+- Return values:
+    - if you want the method to return a value you can use a primitive data type such as int or double instead of void and use the return key word
+
+- Named arguments:
+    - it is also possible to send arguments with the key: value syntax
+
+METHOD OVERLOADING:
+
+- with method overloading, multiple methods can have the same name with differnt parameters
