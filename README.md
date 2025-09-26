@@ -1,4 +1,4 @@
-# learning C#
+# learning C# for my job
 
 ## IMPORTANT STUFF
 
