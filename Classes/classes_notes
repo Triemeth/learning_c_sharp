@@ -1,0 +1,20 @@
+OOP:
+
+- oop is object oriented programming
+- oop is faster and easier to execute then procedural programming it also provides a clear structure
+
+CLASSES/OBJECTS:
+
+- class is a template for objects and an object is an instance of a class
+    - EX: class=car objects=audi, toyota, volvo
+
+- Multiple Objects:
+    - you can create multiple objectts of one class
+    - you can create an object of a class and access it in another class 
+        - this is often better for organization
+
+CLASS MEMBERS:
+
+- fields and methods inside classes are often referred to as "class members"
+- you can leave fields blank and modify them when creating an obejct
+
