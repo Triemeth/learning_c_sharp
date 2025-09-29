@@ -18,3 +18,6 @@ CLASS MEMBERS:
 - fields and methods inside classes are often referred to as "class members"
 - you can leave fields blank and modify them when creating an obejct
 
+CONSTRUCTORS:
+
+- a constructor is a special method that is used to initialize objects The advantage of a constructor, is that it is called when an object of 
