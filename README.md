@@ -24,3 +24,5 @@ namespace Proj{
     }
 }
 ```
+
+I did namespave and classes for everything for some reason and didn't need to do that
