@@ -24,3 +24,6 @@ namespace Proj{
     }
 }
 ```
+
+## NOTE TO SELF
+I did namespace and classes for everything for some reason and didn't need to do that
