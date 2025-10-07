@@ -1,0 +1,15 @@
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.AssemblyInfoInputs.cache
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.AssemblyInfo.cs
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.csproj.CoreCompileInputs.cache
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.sourcelink.json
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\bin\Debug\net8.0\guess_num.exe
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\bin\Debug\net8.0\guess_num.deps.json
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\bin\Debug\net8.0\guess_num.runtimeconfig.json
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\bin\Debug\net8.0\guess_num.dll
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\bin\Debug\net8.0\guess_num.pdb
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.dll
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\refint\guess_num.dll
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.pdb
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\guess_num.genruntimeconfig.cache
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guess_num\obj\Debug\net8.0\ref\guess_num.dll
