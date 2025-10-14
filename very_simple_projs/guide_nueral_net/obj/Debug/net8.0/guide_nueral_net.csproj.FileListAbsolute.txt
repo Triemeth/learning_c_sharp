@@ -1,0 +1,15 @@
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\bin\Debug\net8.0\guide_nueral_net.exe
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\bin\Debug\net8.0\guide_nueral_net.deps.json
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\bin\Debug\net8.0\guide_nueral_net.runtimeconfig.json
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\bin\Debug\net8.0\guide_nueral_net.dll
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\bin\Debug\net8.0\guide_nueral_net.pdb
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.AssemblyInfoInputs.cache
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.AssemblyInfo.cs
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.csproj.CoreCompileInputs.cache
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.sourcelink.json
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.dll
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\refint\guide_nueral_net.dll
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.pdb
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\guide_nueral_net.genruntimeconfig.cache
+C:\Users\EJTri\Documents\learning_c_sharp\very_simple_projs\guide_nueral_net\obj\Debug\net8.0\ref\guide_nueral_net.dll
